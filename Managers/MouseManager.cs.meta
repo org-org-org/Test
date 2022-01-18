@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 103d2099cee520b4c8acba993e64f16e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - point: {instanceID: 0}
+  - doorway: {instanceID: 0}
+  - attack: {instanceID: 0}
+  - target: {instanceID: 0}
+  - arrow: {fileID: 2800000, guid: 892cf409a8348e24591e8a5b3ff41e27, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
